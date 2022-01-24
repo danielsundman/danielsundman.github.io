@@ -7,6 +7,6 @@ var config = {
   appId: "1:740600784457:web:55cc90e9fb2c193a820198",
   measurementId: "G-231RL1MGBJ"
 };
-firebase.initializeApp(config);
+//firebase.initializeApp(config);
 
 var CLIENT_ID = null;
