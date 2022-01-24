@@ -9,6 +9,4 @@ var config = {
 };
 firebase.initializeApp(config);
 
-alert('danielsundman.github.io');
-
 var CLIENT_ID = null;
